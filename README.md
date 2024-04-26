@@ -5,6 +5,6 @@ meta.ipynb : simple data analysis\
 simulation.ipynb : driver data generator
 
 Used model
-NGCF
-LightGCN
-reinforced continual learning for graphs (-ing)
+- NGCF
+- LightGCN
+- reinforced continual learning for graphs (-ing)
