@@ -8,3 +8,5 @@ Used model
 - NGCF
 - LightGCN
 - reinforced continual learning for graphs (-ing)
+
+  Currently, I am working on applying continuous learning for sustainable recommendations.
